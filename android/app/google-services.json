@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233590636325",
+    "firebase_url": "https://sliderts-d3ddd.firebaseio.com",
+    "project_id": "sliderts-d3ddd",
+    "storage_bucket": "sliderts-d3ddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233590636325:android:15c6d3ca6a8320da7924cc",
+        "android_client_info": {
+          "package_name": "com.sliderdemots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233590636325-9itorrcrtfqq7i7fogujl7qa3on53mpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpVujQ4F9-Kb5_CUo-r_0enskfiCscPNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233590636325-9itorrcrtfqq7i7fogujl7qa3on53mpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
